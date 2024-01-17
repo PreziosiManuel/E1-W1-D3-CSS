@@ -12,7 +12,10 @@ header h3 {
 }
 
 main {
-  padding: 0 25%;
+  /* padding: 0 25%;  
+  */ /*FATTO PRIMA MA POI CORRETTO COME SEGUENTE */
+  width: 700px;
+  margin: auto;
 }
 .focaccia {
   border-radius: 10px;
