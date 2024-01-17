@@ -1,7 +1,17 @@
-body {
+header {
   text-align: center;
+}
+header h3 {
+  color: green;
+  background-color: rgb(240, 240, 165, 0.3);
+  padding: 1.25rem;
+  border-top: solid 0.15rem rgb(249, 213, 94);
 }
 
 main {
   padding: 0 30%;
+}
+
+h1 {
+  text-align: center;
 }
